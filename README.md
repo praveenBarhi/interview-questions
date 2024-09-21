@@ -1,4 +1,4 @@
-### *1. Interview Questions : Topic**
+### *Interview Questions: Topic*
 
 
 ---
